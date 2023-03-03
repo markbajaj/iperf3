@@ -10,7 +10,7 @@ docker run --name=iperf3 -d --restart=unless-stopped -p 5201:5201/tcp -p 5201:52
 
 <b>Build</b>
 
-Clone the repository and initialize submodules:<br><br>
+Clone the repository:<br><br>
 git clone https://github.com/markbajaj/iperf3.git <br><br>
 cd iperf3 <br>
 <b>Build the image: </b><br><br>
